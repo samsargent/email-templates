@@ -1,4 +1,6 @@
-email-templates
+Email-Templates
 ===============
 
-standard html email templates to use for website forms &amp; autoresponders
+Eventually this will be a collection of standard html email templates to use for website forms &amp; autoresponders. 
+
+For now there is one example - http://samsargent.github.com/email-templates/
